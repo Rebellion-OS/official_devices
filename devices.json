@@ -2,8 +2,7 @@
 "dipper": {
 	"fullname": "Xiaomi M 8",
 	"maintainer": "engr.chachi",
-    "maintainer_url": "https://github.com/engrchachi",
-	"xda_thread": "https://forum.xda-developers.com/mi-8/development/rom-rebellion-os-t3943421/",
+        "maintainer_url": "https://github.com/engrchachi",
 	"filename": "RebellionOS_P-v1.5-dipper-20190627-OFFICIAL.zip",
 	"buildate": "20190622-043708",
 	"buildsize": "780274829",
