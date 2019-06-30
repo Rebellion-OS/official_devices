@@ -1,10 +1,16 @@
-[
-    {
-      "name": "Xiaomi Mi 8/"8 SE,
-      "brand": "Xiaomi",
-      "codename": "dipper",
-      "maintainer_name": "engr.chachi",
-      "maintainer_url": "https://github.com/engrchachi",
-      "xda_thread": "https://forum.xda-developers.com/mi-8/development/rom-rebellion-os-t3943421/"
-    }
-]
+{
+"dipper": {
+	"fullname": "Xiaomi M 8",
+	"maintainer": "engr.chachi",
+     "maintainer_url": "https://github.com/engrchachi",
+	"filename": "RebellionOS_P-v1.5-dipper-20190627-OFFICIAL.zip",
+	"buildate": "20190627",
+	"buildsize": "780274829",
+	"id": "1",
+	"download": "https://downloads.sourceforge.net/project/rebellionos/dipper/RebellionOS_P-v1.5-dipper-20190627-OFFICIAL.zip",
+	"downloadfolder": "https://sourceforge.net/projects/rebellionos/files/dipper",
+	"mirrorlink": "",
+	"changelog": ""
+}
+
+}
