@@ -28,14 +28,28 @@
 	"changelog": ""
 },
 
+"rolex": {
+	"fullname": "Redmi Note 4/4X",
+	"maintainer": "Hyakei",
+	"xdathread": "https://github.com/RebellionOS/RIDDIM/blob/master/noxda.md",
+	"filename": "RebellionOS_P-v1.5-rolex-20190629-OFFICIAL.zip",
+	"buildate": "20190630",
+	"buildsize": "637MB",
+	"id": "3",
+	"download": "https://downloads.sourceforge.net/project/rebellionos/rolex/RebellionOS_P-v1.5-rolex-20190629-OFFICIAL.zip",
+	"downloadfolder": "https://sourceforge.net/projects/rebellion/files/rolex",
+	"mirrorlink": "",
+	"changelog": ""
+},
+
 "riva": {
 	"fullname": "Redmi 5A",
-	"maintainer": "hooligan32",
+	"maintainer": "Hooligan32",
 	"xdathread": "https://github.com/RebellionOS/RIDDIM/blob/master/noxda.md",
 	"filename": "RebellionOS_P-v1.5-riva-20190627-OFFICIAL.zip",
 	"buildate": "20190627",
 	"buildsize": "610,6MB",
-	"id": "3",
+	"id": "4",
 	"download": "https://downloads.sourceforge.net/project/rebellionos/riva/RebellionOS_P-v1.5-riva-20190627-OFFICIAL.zip",
 	"downloadfolder": "https://sourceforge.net/projects/rebellionos/files/riva",
 	"mirrorlink": "",
