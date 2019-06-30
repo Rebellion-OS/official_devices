@@ -1,14 +1,519 @@
 {
-"dipper": {
-	"fullname": "Xiaomi M 8",
-	"maintainer": "engr.chachi",
-        "maintainer_url": "https://github.com/engrchachi",
-	"filename": "RebellionOS_P-v1.5-dipper-20190627-OFFICIAL.zip",
-	"buildate": "20190627",
+
+"X00T": {
+	"fullname": "Asus Zenfone Max Pro M1",
+	"maintainer": "toymaker",
+	"xdathread": "https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/rom-bootleggersrom-4-1-stable-x00t-x00td-t3918840",
+	"filename": "BootleggersROM-Pie4X00T.4.2-Stable-Shishufied-20190622-043708.zip",
+	"buildate": "20190622-043708",
 	"buildsize": "780274829",
 	"id": "1",
-	"download": "https://downloads.sourceforge.net/project/rebellionos/dipper/RebellionOS_P-v1.5-dipper-20190627-OFFICIAL.zip",
-	"downloadfolder": "https://sourceforge.net/projects/rebellionos/files/dipper",
+	"download": "https://downloads.sourceforge.net/project/bootleggersrom/builds/X00T/BootleggersROM-Pie4X00T.4.2-Stable-Shishufied-20190622-043708.zip",
+	"downloadfolder": "https://sourceforge.net/projects/bootleggersrom/files/builds/X00T",
+	"mirrorlink": "",
+	"changelog": ""
+},
+
+"beryllium": {
+	"fullname": "Xiaomi POCO F1",
+	"maintainer": "dino",
+	"xdathread": "https://forum.xda-developers.com/poco-f1/development/rom-bootleggersrom-3-5-beta-beryllium-t3874506",
+	"filename": "BootleggersROM-Pie4beryllium.4.2-Stable-Shishufied-20190611-073223.zip",
+	"buildate": "20190611-073223",
+	"buildsize": "587266832",
+	"id": "2",
+	"download": "https://downloads.sourceforge.net/project/bootleggersrom/builds/beryllium/BootleggersROM-Pie4beryllium.4.2-Stable-Shishufied-20190611-073223.zip",
+	"downloadfolder": "https://sourceforge.net/projects/bootleggersrom/files/builds/beryllium",
+	"mirrorlink": "",
+	"changelog": ""
+},
+
+"cheeseburger": {
+	"fullname": "OnePlus 5",
+	"maintainer": "wrongway213",
+	"xdathread": "https://forum.xda-developers.com/oneplus-5/development/rom-bootleggers-rom-t3883949",
+	"filename": "BootleggersROM-Pie4cheeseburger.4.0-Stable-Shishufied-20190310-054659.zip",
+	"buildate": "20190310-054659",
+	"buildsize": "814199315",
+	"id": "3",
+	"download": "https://downloads.sourceforge.net/project/bootleggersrom/builds/cheeseburger/BootleggersROM-Pie4cheeseburger.4.0-Stable-Shishufied-20190310-054659.zip",
+	"downloadfolder": "https://sourceforge.net/projects/bootleggersrom/files/builds/cheeseburger",
+	"mirrorlink": "",
+	"changelog": ""
+},
+
+"dumpling": {
+	"fullname": "OnePlus 5T",
+	"maintainer": "wrongway213",
+	"xdathread": "https://forum.xda-developers.com/oneplus-5t/development/rom-bootleggers-rom-t3909540",
+	"filename": "BootleggersROM-Pie4dumpling.4.0-Stable-Shishufied-20190310-074014.zip",
+	"buildate": "20190310-074014",
+	"buildsize": "810501217",
+	"id": "4",
+	"download": "https://downloads.sourceforge.net/project/bootleggersrom/builds/dumpling/BootleggersROM-Pie4dumpling.4.0-Stable-Shishufied-20190310-074014.zip",
+	"downloadfolder": "https://sourceforge.net/projects/bootleggersrom/files/builds/dumpling",
+	"mirrorlink": "",
+	"changelog": ""
+},
+
+"enchilada": {
+	"fullname": "Oneplus 6",
+	"maintainer": "Ayan",
+	"xdathread": "https://forum.xda-developers.com/oneplus-6/development/rom-bootleggersrom-3-5-beta-unshishufied-t3871649",
+	"filename": "BootleggersROM-Pie4enchilada.4.2-Stable-Shishufied-20190611-144002.zip",
+	"buildate": "20190611-144002",
+	"buildsize": "702141771",
+	"id": "5",
+	"download": "https://downloads.sourceforge.net/project/bootleggersrom/builds/enchilada/BootleggersROM-Pie4enchilada.4.2-Stable-Shishufied-20190611-144002.zip",
+	"downloadfolder": "https://sourceforge.net/projects/bootleggersrom/files/builds/enchilada",
+	"mirrorlink": "https://androidfilehost.com/?fid=6006931924117893169",
+	"changelog": ""
+},
+
+"fajita": {
+	"fullname": "Oneplus 6T",
+	"maintainer": "Mohammed Nathani",
+	"xdathread": "https://forum.xda-developers.com/oneplus-6t/development/bootleggersrom-4-0-stable-t3894698",
+	"filename": "BootleggersROM-Pie4fajita.4.0-Stable-Shishufied-20190208-091839",
+	"buildate": "ied-20190208-091839",
+	"buildsize": "547082679",
+	"id": "6",
+	"download": "https://downloads.sourceforge.net/project/bootleggersrom/builds/fajita/BootleggersROM-Pie4fajita.4.0-Stable-Shishufied-20190208-091839",
+	"downloadfolder": "https://sourceforge.net/projects/bootleggersrom/files/builds/fajita",
+	"mirrorlink": "https://sourceforge.net/projects/bootleggersrom/files/builds/fajita/",
+	"changelog": ""
+},
+
+"hero2lte": {
+	"fullname": "Samsung Galaxy S7 Edge",
+	"maintainer": "gibranm",
+	"xdathread": "https://forum.xda-developers.com/s7-edge/development/unofficial-bootleggers-rom-8-1-t3795222",
+	"filename": "BootleggersROM-Pie4hero2lte.4.2-Stable-Shishufied-20190610-195352.zip",
+	"buildate": "20190610-195352",
+	"buildsize": "610765678",
+	"id": "7",
+	"download": "https://downloads.sourceforge.net/project/bootleggersrom/builds/hero2lte/BootleggersROM-Pie4hero2lte.4.2-Stable-Shishufied-20190610-195352.zip",
+	"downloadfolder": "https://sourceforge.net/projects/bootleggersrom/files/builds/hero2lte",
+	"mirrorlink": "",
+	"changelog": ""
+},
+
+"herolte": {
+	"fullname": "Samsung Galaxy S7",
+	"maintainer": "gibranm",
+	"xdathread": "https://forum.xda-developers.com/galaxy-s7/development/unofficial-bootleggers-rom-8-1-t3795133",
+	"filename": "BootleggersROM-Pie4herolte.4.2-Stable-Shishufied-20190610-190138.zip",
+	"buildate": "20190610-190138",
+	"buildsize": "597080805",
+	"id": "8",
+	"download": "https://downloads.sourceforge.net/project/bootleggersrom/builds/herolte/BootleggersROM-Pie4herolte.4.2-Stable-Shishufied-20190610-190138.zip",
+	"downloadfolder": "https://sourceforge.net/projects/bootleggersrom/files/builds/herolte",
+	"mirrorlink": "",
+	"changelog": ""
+},
+
+"jasmine_sprout": {
+	"fullname": "Xiaomi Mi A2",
+	"maintainer": "Fullbustah",
+	"xdathread": "https://forum.xda-developers.com/mi-a2/development/unshishufied-bootleggersrom-4-0-t3885588",
+	"filename": "BootleggersROM-Pie4jasmine_sprout.4.2-Stable-Shishufied-20190611-211616.zip",
+	"buildate": "20190611-211616",
+	"buildsize": "827885337",
+	"id": "9",
+	"download": "https://downloads.sourceforge.net/project/bootleggersrom/builds/jasmine_sprout/BootleggersROM-Pie4jasmine_sprout.4.2-Stable-Shishufied-20190611-211616.zip",
+	"downloadfolder": "https://sourceforge.net/projects/bootleggersrom/files/builds/jasmine_sprout",
+	"mirrorlink": "",
+	"changelog": ""
+},
+
+"kenzo": {
+	"fullname": "Xiaomi Redmi Note 3",
+	"maintainer": "dino (cuz amog787 dedaf)",
+	"xdathread": "https://forum.xda-developers.com/redmi-note-3/development/rom-bootleggersrom-3-5-stable-kenzo-t3858009",
+	"filename": "BootleggersROM-Pie4kenzo.4.2-Stable-Shishufied-20190611-153711.zip",
+	"buildate": "20190611-153711",
+	"buildsize": "609720691",
+	"id": "10",
+	"download": "https://downloads.sourceforge.net/project/bootleggersrom/builds/kenzo/BootleggersROM-Pie4kenzo.4.2-Stable-Shishufied-20190611-153711.zip",
+	"downloadfolder": "https://sourceforge.net/projects/bootleggersrom/files/builds/kenzo",
+	"mirrorlink": "",
+	"changelog": ""
+},
+
+"klte": {
+	"fullname": "Samsung Galaxy S5",
+	"maintainer": "IKGapirov",
+	"xdathread": "https://forum.xda-developers.com/galaxy-s5/unified-development/rom-bootleggersrom-4-0-stable-t3890756",
+	"filename": "BootleggersROM-Pie4klte.4.1-Stable-Shishufied-20190404-065509.zip",
+	"buildate": "4-065509-191140",
+	"buildsize": "481MB (503321241)",
+	"id": "11",
+	"download": "https://downloads.sourceforge.net/project/bootleggersrom/builds/klte/BootleggersROM-Pie4klte.4.1-Stable-Shishufied-20190404-065509.zip",
+	"downloadfolder": "https://sourceforge.net/projects/bootleggersrom/files/builds/klte",
+	"mirrorlink": "",
+	"changelog": ""
+},
+
+"kltechn": {
+	"fullname": "Samsung Galaxy S5",
+	"maintainer": "IKGapirov",
+	"xdathread": "https://forum.xda-developers.com/galaxy-s5/unified-development/rom-bootleggersrom-4-0-stable-t3890756",
+	"filename": "BootleggersROM-Pie4kltechn.4.1-Stable-Shishufied-20190404-061425.zip",
+	"buildate": "4-061425-191140",
+	"buildsize": "473MB (495434187)",
+	"id": "12",
+	"download": "https://downloads.sourceforge.net/project/bootleggersrom/builds/kltechn/BootleggersROM-Pie4kltechn.4.1-Stable-Shishufied-20190404-061425.zip",
+	"downloadfolder": "https://sourceforge.net/projects/bootleggersrom/files/builds/kltechn",
+	"mirrorlink": "",
+	"changelog": ""
+},
+
+"klteduos": {
+	"fullname": "Samsung Galaxy S5",
+	"maintainer": "IKGapirov",
+	"xdathread": "https://forum.xda-developers.com/galaxy-s5/unified-development/rom-bootleggersrom-4-0-stable-t3890756",
+	"filename": "BootleggersROM-Pie4klteduos.4.1-Stable-Shishufied-20190404-034844.zip",
+	"buildate": "4-034844-191140",
+	"buildsize": "472MB (494363337)",
+	"id": "13",
+	"download": "https://downloads.sourceforge.net/project/bootleggersrom/builds/klteduos/BootleggersROM-Pie4klteduos.4.1-Stable-Shishufied-20190404-034844.zip",
+	"downloadfolder": "https://sourceforge.net/projects/bootleggersrom/files/builds/klteduos",
+	"mirrorlink": "",
+	"changelog": ""
+},
+
+"kltedv": {
+	"fullname": "Samsung Galaxy S5",
+	"maintainer": "IKGapirov",
+	"xdathread": "https://forum.xda-developers.com/galaxy-s5/unified-development/rom-bootleggersrom-4-0-stable-t3890756",
+	"filename": "BootleggersROM-Pie4kltedv.4.1-Stable-Shishufied-20190404-040947.zip",
+	"buildate": "4-040947-191140",
+	"buildsize": "475MB (497411301)",
+	"id": "14",
+	"download": "https://downloads.sourceforge.net/project/bootleggersrom/builds/kltedv/BootleggersROM-Pie4kltedv.4.1-Stable-Shishufied-20190404-040947.zip",
+	"downloadfolder": "https://sourceforge.net/projects/bootleggersrom/files/builds/kltedv",
+	"mirrorlink": "",
+	"changelog": ""
+},
+
+"kltekdi": {
+	"fullname": "Samsung Galaxy S5",
+	"maintainer": "IKGapirov",
+	"xdathread": "https://forum.xda-developers.com/galaxy-s5/unified-development/rom-bootleggersrom-4-0-stable-t3890756",
+	"filename": "BootleggersROM-Pie4kltekdi.4.1-Stable-Shishufied-20190404-063627.zip",
+	"buildate": "4-063627-191140",
+	"buildsize": "473MB (495677202)",
+	"id": "15",
+	"download": "https://downloads.sourceforge.net/project/bootleggersrom/builds/kltekdi/BootleggersROM-Pie4kltekdi.4.1-Stable-Shishufied-20190404-063627.zip",
+	"downloadfolder": "https://sourceforge.net/projects/bootleggersrom/files/builds/kltekdi",
+	"mirrorlink": "",
+	"changelog": ""
+},
+
+"kltekor": {
+	"fullname": "Samsung Galaxy S5",
+	"maintainer": "IKGapirov",
+	"xdathread": "https://forum.xda-developers.com/galaxy-s5/unified-development/rom-bootleggersrom-4-0-stable-t3890756",
+	"filename": "BootleggersROM-Pie4kltekor.4.1-Stable-Shishufied-20190404-042941.zip",
+	"buildate": "4-042941-191140",
+	"buildsize": "476MB (499095953)",
+	"id": "16",
+	"download": "https://downloads.sourceforge.net/project/bootleggersrom/builds/kltekor/BootleggersROM-Pie4kltekor.4.1-Stable-Shishufied-20190404-042941.zip",
+	"downloadfolder": "https://sourceforge.net/projects/bootleggersrom/files/builds/kltekor",
+	"mirrorlink": "",
+	"changelog": ""
+},
+
+"kuntao": {
+	"fullname": "Lenovo P2",
+	"maintainer": "Fullbustah",
+	"xdathread": "https://forum.xda-developers.com/lenovo-p2/development/unshishufied-bootleggersrom-4-0-t3903956",
+	"filename": "BootleggersROM-Pie4kuntao.4.1-Stable-Shishufied-20190514-161021.zip",
+	"buildate": "20190514-161021",
+	"buildsize": "656548956",
+	"id": "17",
+	"download": "https://downloads.sourceforge.net/project/bootleggersrom/builds/kuntao/BootleggersROM-Pie4kuntao.4.1-Stable-Shishufied-20190514-161021.zip",
+	"downloadfolder": "https://sourceforge.net/projects/bootleggersrom/files/builds/kuntao",
+	"mirrorlink": "",
+	"changelog": ""
+},
+
+"land": {
+	"fullname": "Xiaomi Redmi 3s/3x",
+	"maintainer": "Anshumanxda",
+	"xdathread": "https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-bootleggers-v4-0-t3909471",
+	"filename": "BootleggersROM-Pie4land.4.2-Stable-Shishufied-20190615-144631.zip",
+	"buildate": "20190615-144631",
+	"buildsize": "638111044",
+	"id": "18",
+	"download": "https://downloads.sourceforge.net/project/bootleggersrom/builds/land/BootleggersROM-Pie4land.4.2-Stable-Shishufied-20190615-144631.zip",
+	"downloadfolder": "https://sourceforge.net/projects/bootleggersrom/files/builds/land",
+	"mirrorlink": "",
+	"changelog": ""
+},
+
+"markw": {
+	"fullname": "Xiaomi Redmi 4 Prime",
+	"maintainer": "DarkAngelGR",
+	"xdathread": "https://forum.xda-developers.com/redmi-4-prime/development/9-0-bootleggersrom-v4-2-redmi-4-prime-t3939255",
+	"filename": "BootleggersROM-Pie4markw.4.2-Stable-Shishufied-20190613-102523.zip",
+	"buildate": "20190613-102523",
+	"buildsize": "688450214",
+	"id": "19",
+	"download": "https://downloads.sourceforge.net/project/bootleggersrom/builds/markw/BootleggersROM-Pie4markw.4.2-Stable-Shishufied-20190613-102523.zip",
+	"downloadfolder": "https://sourceforge.net/projects/bootleggersrom/files/builds/markw",
+	"mirrorlink": "",
+	"changelog": ""
+},
+
+"mido": {
+	"fullname": "Xiaomi Redmi Note 4/4X",
+	"maintainer": "Call190Now",
+	"xdathread": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-bootleggersrom-4-1-stable-mido-t3935708",
+	"filename": "BootleggersROM-Pie4mido.4.2-Stable-Shishufied-20190611-184730.zip",
+	"buildate": "20190611-184730",
+	"buildsize": "671517165",
+	"id": "20",
+	"download": "https://downloads.sourceforge.net/project/bootleggersrom/builds/mido/BootleggersROM-Pie4mido.4.2-Stable-Shishufied-20190611-184730.zip",
+	"downloadfolder": "https://sourceforge.net/projects/bootleggersrom/files/builds/mido",
+	"mirrorlink": "",
+	"changelog": ""
+},
+
+"oneplus3": {
+	"fullname": "OnePlus 3/3T",
+	"maintainer": "Ded_Boi",
+	"xdathread": "https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/unshishufied-bootleggersrom-t3872512",
+	"filename": "BootleggersROM-Pie4oneplus3.4.1-Stable-Shishufied-20190409-014618.zip",
+	"buildate": "20190409-014618",
+	"buildsize": "669120990",
+	"id": "21",
+	"download": "https://downloads.sourceforge.net/project/bootleggersrom/builds/oneplus3/BootleggersROM-Pie4oneplus3.4.1-Stable-Shishufied-20190409-014618.zip",
+	"downloadfolder": "https://sourceforge.net/projects/bootleggersrom/files/builds/oneplus3",
+	"mirrorlink": "",
+	"changelog": ""
+},
+
+"platina": {
+	"fullname": "Mi8 Lite",
+	"maintainer": "ManoloRey",
+	"xdathread": "https://forum.xda-developers.com/mi-8-Lite/development/rom-bootleggersrom-4-0-stable-mi8-lite-t3891054",
+	"filename": "BootleggersROM-Pie4platina.4.1-Stable-Shishufied-20190409-175727.zip",
+	"buildate": "20190409-175727",
+	"buildsize": "800857160",
+	"id": "22",
+	"download": "https://downloads.sourceforge.net/project/bootleggersrom/builds/platina/BootleggersROM-Pie4platina.4.1-Stable-Shishufied-20190409-175727.zip",
+	"downloadfolder": "https://sourceforge.net/projects/bootleggersrom/files/builds/platina",
+	"mirrorlink": "",
+	"changelog": ""
+},
+
+"potter": {
+	"fullname": "Moto G5 Plus",
+	"maintainer": "UtsavTheCunt",
+	"xdathread": "https://forum.xda-developers.com/g5-plus/development/rom-bootleggers-rom-t3920130",
+	"filename": "BootleggersROM-Pie4potter.4.2-Stable-Shishufied-20190623-10561.zip",
+	"buildate": "-20190623-10561",
+	"buildsize": "720440060",
+	"id": "23",
+	"download": "https://downloads.sourceforge.net/project/bootleggersrom/builds/potter/BootleggersROM-Pie4potter.4.2-Stable-Shishufied-20190623-10561.zip",
+	"downloadfolder": "https://sourceforge.net/projects/bootleggersrom/files/builds/potter",
+	"mirrorlink": "",
+	"changelog": ""
+},
+
+"rolex": {
+	"fullname": "Xiaomi Redmi 4a",
+	"maintainer": "Aarish",
+	"xdathread": "coming soon",
+	"filename": "BootleggersROM-Pie4rolex.4.2-Stable-Shishufied-20190613-090332.zip",
+	"buildate": "20190613-090332",
+	"buildsize": "634003583",
+	"id": "24",
+	"download": "https://downloads.sourceforge.net/project/bootleggersrom/builds/rolex/BootleggersROM-Pie4rolex.4.2-Stable-Shishufied-20190613-090332.zip",
+	"downloadfolder": "https://sourceforge.net/projects/bootleggersrom/files/builds/rolex",
+	"mirrorlink": "https://sourceforge.net/projects/bootleggersrom/files/builds/Rolex/BootleggersROM-Pie4rolex.4.2-Stable-Shishufied-20190613-090332.zip/download",
+	"changelog": ""
+},
+
+"sailfish": {
+	"fullname": "Google Pixel",
+	"maintainer": "shagbag913",
+	"xdathread": "https://forum.xda-developers.com/pixel/development/rom-bootleggersrom-3-5-madstinky-t3877760/",
+	"filename": "BootleggersROM-Pie4sailfish.4.2-Stable-Shishufied-20190611-185712.zip",
+	"buildate": "20190611-185712",
+	"buildsize": "883076677",
+	"id": "25",
+	"download": "https://downloads.sourceforge.net/project/bootleggersrom/builds/sailfish/BootleggersROM-Pie4sailfish.4.2-Stable-Shishufied-20190611-185712.zip",
+	"downloadfolder": "https://sourceforge.net/projects/bootleggersrom/files/builds/sailfish",
+	"mirrorlink": "",
+	"changelog": ""
+},
+
+"sanders": {
+	"fullname": "Moto G5s Plus",
+	"maintainer": "Melvin",
+	"xdathread": "https://forum.xda-developers.com/moto-g5s-plus/development/rom-bootleggersrom-4-2-stable-t3939571/post79724935#post79724935",
+	"filename": "BootleggersROM-Pie4sanders.4.2-Stable-Shishufied-20190614-070135.zip",
+	"buildate": "20190614-070135",
+	"buildsize": "747057296",
+	"id": "26",
+	"download": "https://downloads.sourceforge.net/project/bootleggersrom/builds/sanders/BootleggersROM-Pie4sanders.4.2-Stable-Shishufied-20190614-070135.zip",
+	"downloadfolder": "https://sourceforge.net/projects/bootleggersrom/files/builds/sanders",
+	"mirrorlink": "https://sourceforge.net/projects/bootleggersrom/files/builds/sanders/BootleggersROM-Pie4sanders.4.2-Stable-Shishufied-20190614-070135.zip/download",
+	"changelog": ""
+},
+
+"santoni": {
+	"fullname": "Xiaomi Redmi 4X",
+	"maintainer": "HarukeyUA",
+	"xdathread": "https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-bootleggers-rom-t3897244",
+	"filename": "BootleggersROM-Pie4santoni.4.2-Stable-Shishufied-20190611-082053.zip",
+	"buildate": "20190611-082053",
+	"buildsize": "654483049",
+	"id": "27",
+	"download": "https://downloads.sourceforge.net/project/bootleggersrom/builds/santoni/BootleggersROM-Pie4santoni.4.2-Stable-Shishufied-20190611-082053.zip",
+	"downloadfolder": "https://sourceforge.net/projects/bootleggersrom/files/builds/santoni",
+	"mirrorlink": "",
+	"changelog": ""
+},
+
+"scorpio": {
+	"fullname": "Xiaomi Mi Note 2",
+	"maintainer": "tribual",
+	"xdathread": "https://forum.xda-developers.com/mi-note-2/development/rom-bootleggers-t3875691",
+	"filename": "BootleggersROM-Pie4scorpio.4.2-Stable-Shishufied-20190611-093944.zip",
+	"buildate": "20190611-093944",
+	"buildsize": "828205132",
+	"id": "28",
+	"download": "https://downloads.sourceforge.net/project/bootleggersrom/builds/scorpio/BootleggersROM-Pie4scorpio.4.2-Stable-Shishufied-20190611-093944.zip",
+	"downloadfolder": "https://sourceforge.net/projects/bootleggersrom/files/builds/scorpio",
+	"mirrorlink": "http://cloud.softair-sueddeutschland.de/index.php/s/Z35miQN9JHwTEzz",
+	"changelog": ""
+},
+
+"surnia": {
+	"fullname": "Moto E 2015 (LTE)",
+	"maintainer": "ElDainosor",
+	"xdathread": "https://forum.xda-developers.com/moto-e-2015/orig-development/rom-bootleggers-rom-moto-e-2015-lte-t3725351",
+	"filename": "BootleggersROM-Pie4surnia.4.2-Stable-Shishufied-20190615-013544.zip",
+	"buildate": "20190615-013544",
+	"buildsize": "456582523",
+	"id": "29",
+	"download": "https://downloads.sourceforge.net/project/bootleggersrom/builds/surnia/BootleggersROM-Pie4surnia.4.2-Stable-Shishufied-20190615-013544.zip",
+	"downloadfolder": "https://sourceforge.net/projects/bootleggersrom/files/builds/surnia",
+	"mirrorlink": "",
+	"changelog": ""
+},
+
+"taimen": {
+	"fullname": "Pixel 2 XL",
+	"maintainer": "slothdabski",
+	"xdathread": "https://forum.xda-developers.com/pixel-2-xl/development/smartnav-bootleggersrom-3-5-madstinky-t3873957",
+	"filename": "BootleggersROM-Pie4taimen.4.2-Stable-Shishufied-20190611-081041.zip",
+	"buildate": "20190611-081041",
+	"buildsize": "1064686578",
+	"id": "30",
+	"download": "https://downloads.sourceforge.net/project/bootleggersrom/builds/taimen/BootleggersROM-Pie4taimen.4.2-Stable-Shishufied-20190611-081041.zip",
+	"downloadfolder": "https://sourceforge.net/projects/bootleggersrom/files/builds/taimen",
+	"mirrorlink": "https://sourceforge.net/projects/bootleggersrom/files/builds/taimen/",
+	"changelog": ""
+},
+
+"tissot": {
+	"fullname": "Mi A1",
+	"maintainer": "Abhinav Gupta(Agrd1129)",
+	"xdathread": "https://forum.xda-developers.com/showthread.php?t=3874582",
+	"filename": "BootleggersROM-Pie4tissot.4.2-Stable-Shishufied-20190611-142502.zip",
+	"buildate": "20190611-142502",
+	"buildsize": "984559287",
+	"id": "31",
+	"download": "https://downloads.sourceforge.net/project/bootleggersrom/builds/tissot/BootleggersROM-Pie4tissot.4.2-Stable-Shishufied-20190611-142502.zip",
+	"downloadfolder": "https://sourceforge.net/projects/bootleggersrom/files/builds/tissot",
+	"mirrorlink": "Error404",
+	"changelog": ""
+},
+
+"vince": {
+	"fullname": "Redmi 5 Plus",
+	"maintainer": "ManoloRey",
+	"xdathread": "https://forum.xda-developers.com/redmi-note-5/development/rom-bootleggersrom-3-5-stable-vince-t3867209",
+	"filename": "BootleggersROM-Pie4vince.4.2-Stable-Shishufied-20190612-011248.zip",
+	"buildate": "20190612-011248",
+	"buildsize": "751672095",
+	"id": "32",
+	"download": "https://downloads.sourceforge.net/project/bootleggersrom/builds/vince/BootleggersROM-Pie4vince.4.2-Stable-Shishufied-20190612-011248.zip",
+	"downloadfolder": "https://sourceforge.net/projects/bootleggersrom/files/builds/vince",
+	"mirrorlink": "",
+	"changelog": ""
+},
+
+"violet": {
+	"fullname": "Xiaomi Redmi Note 7 Pro",
+	"maintainer": "merothh",
+	"xdathread": "https://forum.xda-developers.com/redmi-note-7-pro/development/rom-bootleggersrom-4-1-stable-violet-t3926848",
+	"filename": "BootleggersROM-Pie4violet.4.2-Stable-Shishufied-20190613-102859.zip",
+	"buildate": "20190613-102859",
+	"buildsize": "927570021",
+	"id": "33",
+	"download": "https://downloads.sourceforge.net/project/bootleggersrom/builds/violet/BootleggersROM-Pie4violet.4.2-Stable-Shishufied-20190613-102859.zip",
+	"downloadfolder": "https://sourceforge.net/projects/bootleggersrom/files/builds/violet",
+	"mirrorlink": "https://drive.google.com/uc?export=download&id=1-fQWhs5jzYQt0n2XhOkqs5pJF6GSwjSY",
+	"changelog": ""
+},
+
+"walleye": {
+	"fullname": "Pixel 2",
+	"maintainer": "slothdabski",
+	"xdathread": "https://forum.xda-developers.com/pixel-2/development/rom-bootleggersrom-4-0-stable-t3884138",
+	"filename": "BootleggersROM-Pie4walleye.4.2-Stable-Shishufied-20190622-233402.zip",
+	"buildate": "20190622-233402",
+	"buildsize": "1028125587",
+	"id": "34",
+	"download": "https://downloads.sourceforge.net/project/bootleggersrom/builds/walleye/BootleggersROM-Pie4walleye.4.2-Stable-Shishufied-20190622-233402.zip",
+	"downloadfolder": "https://sourceforge.net/projects/bootleggersrom/files/builds/walleye",
+	"mirrorlink": "https://sourceforge.net/projects/bootleggersrom/files/builds/walleye/",
+	"changelog": ""
+},
+
+"whyred": {
+	"fullname": "Redmi Note 5 Pro",
+	"maintainer": "simrat39",
+	"xdathread": "https://forum.xda-developers.com/redmi-note-5-pro/development/whyred-bootleggersrom-4-1-official-t3920527",
+	"filename": "BootleggersROM-Pie4whyred.4.2-Stable-Shishufied-20190613-145743.zip",
+	"buildate": "20190613-145743",
+	"buildsize": "899813757",
+	"id": "35",
+	"download": "https://downloads.sourceforge.net/project/bootleggersrom/builds/whyred/BootleggersROM-Pie4whyred.4.2-Stable-Shishufied-20190613-145743.zip",
+	"downloadfolder": "https://sourceforge.net/projects/bootleggersrom/files/builds/whyred",
+	"mirrorlink": "",
+	"changelog": ""
+},
+
+"wt88047": {
+	"fullname": "Xiaomi Redmi 2/prime",
+	"maintainer": "karthik km",
+	"xdathread": "",
+	"filename": "",
+	"buildate": "-191140",
+	"buildsize": "",
+	"id": "36",
+	"download": "https://downloads.sourceforge.net/project/bootleggersrom/builds/wt88047/",
+	"downloadfolder": "https://sourceforge.net/projects/bootleggersrom/files/builds/wt88047",
+	"mirrorlink": "",
+	"changelog": ""
+},
+
+"z2_plus": {
+	"fullname": "Zuk Z2 Plus",
+	"maintainer": "Aswin A S",
+	"xdathread": "https://forum.xda-developers.com/lenovo-zuk-z2/development/pie-bootleggers-3-5-shishufied-zuk-z2-t3867112",
+	"filename": "BootleggersROM-Pie4z2_plus.4.2-Stable-Shishufied-20190613-062340.zip",
+	"buildate": "3-062340-191140",
+	"buildsize": "684.6MB",
+	"id": "37",
+	"download": "https://downloads.sourceforge.net/project/bootleggersrom/builds/z2_plus/BootleggersROM-Pie4z2_plus.4.2-Stable-Shishufied-20190613-062340.zip",
+	"downloadfolder": "https://sourceforge.net/projects/bootleggersrom/files/builds/z2_plus",
 	"mirrorlink": "",
 	"changelog": ""
 }
