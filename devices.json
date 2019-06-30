@@ -17,6 +17,7 @@
 "mido": {
 	"fullname": "Redmi Note 4/4X",
 	"maintainer": "rev31one",
+	"xdathread": "https://github.com/RebellionOS/RIDDIM/blob/master/noxda.md",
 	"filename": "RebellionOS_P-v1.5-mido-20190630-OFFICIAL.zip",
 	"buildate": "20190630",
 	"buildsize": "637MB",
@@ -30,6 +31,7 @@
 "riva": {
 	"fullname": "Redmi 5A",
 	"maintainer": "hooligan32",
+	"xdathread": "https://github.com/RebellionOS/RIDDIM/blob/master/noxda.md",
 	"filename": "RebellionOS_P-v1.5-riva-20190627-OFFICIAL.zip",
 	"buildate": "20190627",
 	"buildsize": "610,6MB",
