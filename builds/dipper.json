@@ -1,12 +1,11 @@
 {
   "response": [
     {
-      "datetime": "1558043031",
-      "filename": "Kraken_whyred-Pie-20190514-2119-OFFICIAL.zip",
-      "id": "ba258bd40eaeba9b8ef8af3a63550710",
+      "file_name": "RebellionOS_P-v1.5-dipper-20190708-OFFICIAL.zip",
+      "file_size": 551500786,
+      "md5": "de4516c4838d7561306c30a266c91142",
       "romtype": "OFFICIAL",
-      "size": "563712000",
-      "url": "https://master.dl.sourceforge.net/project/rebellionos/dipper/RebellionOS_P-v1.5-dipper-20190627-OFFICIAL.zip",
+      "url": "https://sourceforge.net/projects/rebellionos/files/dipper/",
       "version": "Pie"
     }
   ]
