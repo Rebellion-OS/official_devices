@@ -1,0 +1,456 @@
+=======================
+     07-15-2019
+=======================
+
+
+   * frameworks/base/
+c647dfd6e29 SystemUI: Redesign the clear notification button
+
+   * manifest/
+219099f Reformat the manifest and update credits
+9b3ee18 No crowdin for now
+
+=======================
+     07-14-2019
+=======================
+
+
+   * development/
+9b8a35f8e Merge remote-tracking branch 'aosp/pie-gsi' into lineage-16.0-pie-gsi
+
+   * external/f2fs-tools/
+bd0159a Merge remote-tracking branch 'aosp/pie-gsi' into lineage-16.0-pie-gsi
+
+   * external/icu/
+c555ad468 Merge remote-tracking branch 'aosp/pie-gsi' into lineage-16.0-pie-gsi
+
+   * external/libpng/
+19908ec Merge remote-tracking branch 'aosp/pie-gsi' into lineage-16.0-pie-gsi
+
+   * external/proguard/
+56c2bf7 Merge remote-tracking branch 'aosp/pie-gsi' into lineage-16.0-pie-gsi
+
+   * frameworks/base/
+1b6b5bc8d40 SYstemUI: Remove the Brightness thumb icon
+b55880b8d09 Just see the diff
+95394a42203 Revert "SystemUI: shooo.... go away!"
+562079ef295 Revert "SystemUI: Change the QSPanle radius value"
+
+   * hardware/broadcom/wlan/
+9610886 Merge remote-tracking branch 'aosp/pie-gsi' into lineage-16.0-pie-gsi
+
+   * hardware/qcom/audio/default/
+768ef7316 Merge remote-tracking branch 'aosp/pie-gsi' into lineage-16.0-pie-gsi
+
+   * hardware/qcom/bootctrl/
+f705d0e Merge remote-tracking branch 'aosp/pie-gsi' into lineage-16.0-pie-gsi
+
+   * hardware/qcom/display/
+501f9aed6 Merge remote-tracking branch 'aosp/pie-gsi' into lineage-16.0-pie-gsi
+
+   * hardware/qcom/gps/
+a62882c Merge remote-tracking branch 'aosp/pie-gsi' into lineage-16.0-pie-gsi
+
+   * hardware/qcom/media/
+ef30d8cfa Merge remote-tracking branch 'aosp/pie-gsi' into lineage-16.0-pie-gsi
+
+   * kernel/xiaomi/sdm845/
+2acec461896a Merge remote-tracking branch 'linux-stable/kernel.lnx.4.9.r11-rel' into Pepper-pie
+
+   * packages/apps/CarrierConfig/
+8213808 Merge remote-tracking branch 'aosp/pie-gsi' into lineage-16.0-pie-gsi
+
+   * packages/apps/Settings/
+dbc9b9fb63 Settings: Battery : Redesign BatteryMeterView
+
+   * system/security/
+f595c85 Merge remote-tracking branch 'aosp/pie-gsi' into lineage-16.0-pie-gsi
+
+   * system/timezone/
+de4a2bf Merge remote-tracking branch 'aosp/pie-gsi' into lineage-16.0-pie-gsi
+
+   * system/tools/hidl/
+c7efb50 Merge remote-tracking branch 'aosp/pie-gsi' into lineage-16.0-pie-gsi
+
+   * system/update_engine/
+5be3b00 Merge remote-tracking branch 'aosp/pie-gsi' into lineage-16.0-pie-gsi
+
+=======================
+     07-13-2019
+=======================
+
+
+   * frameworks/base/
+af8d4adcee4 Revert "core: Edit some colors"
+4f35e90bf67 Revert "core: colors: Rewrite gradient colors value"
+
+   * hardware/qcom/audio-caf/sm8150/
+737db85d3 audio_extn: Fix unused parameter warning in utils.c
+
+=======================
+     07-12-2019
+=======================
+
+
+   * frameworks/base/
+774550c35eb SystemUI: shooo.... go away!
+37c998f0d0e core: colors: Rewrite gradient colors value
+1ac3510887b core: Edit some colors
+4bb254be283 SystemUI: Change the QSPanle radius value
+c0757246ab8 Add RebellionOS Tet boot
+97f8de7997b core: Get BAck
+d81730cff25 SystemUI: Make the button based on the theme color
+029bac5acdd SYstemUI: Remove the text
+
+   * vendor/pixelstyle/
+5a9de44 Dunno what good commit title
+1387b0d Pixelstyle: Remove some fonts
+
+   * vendor/xiaomi/
+8974413c jason: Update blobs from miui_MINote3_9.7.4_241910e4db_9.0
+
+=======================
+     07-11-2019
+=======================
+
+
+   * frameworks/base/
+b013f534ce0 Base: Redesign seekbar track
+
+   * hardware/qcom/display-caf/sdm845/
+9a95e92be display: Always build libcopybit headers
+
+   * kernel/xiaomi/sdm845/
+d24e9351cfd1 Merge 4.9.185 into kernel.lnx.4.9.r11-rel
+9c51e1102c95 Linux 4.9.185
+dd862509c798 arm64: kaslr: keep modules inside module region when KASAN is enabled
+6e8aa99a2ef8 dmaengine: imx-sdma: remove BD_INTR for channel0
+dd8f65a719db MIPS: Add missing EHB in mtc0 -> mfc0 sequence.
+ea663abb285b IB/hfi1: Close PSM sdma_progress sleep window
+997ef649f297 KVM: LAPIC: Fix pending interrupt in IRR blocked by software disable LAPIC
+830d3a71e1ce arm64, vdso: Define vdso_{start,end} as array
+a391af9be441 tty: rocket: fix incorrect forward declaration of 'rp_init()'
+c51e9aab0aff btrfs: Ensure replaced device doesn't have pending chunk allocation
+e537ba03e79c drm/imx: only send event on crtc disable if kept disabled
+06a7d357dd6e drm/imx: notify drm core before sending event during crtc disable
+ea6839434260 lib/mpi: Fix karactx leak in mpi_powm
+443449d4a149 ALSA: usb-audio: fix sign unintended sign extension on left shifts
+8b449e9dc215 ALSA: line6: Fix write on zero-sized buffer
+e25f837422ee ALSA: firewire-lib/fireworks: fix miss detection of received MIDI messages
+39950c6c3766 ALSA: seq: fix incorrect order of dest_client/dest_ports arguments
+cd6f2066307a crypto: user - prevent operating on larval algorithms
+d8b99303da93 ptrace: Fix ->ptracer_cred handling for PTRACE_TRACEME
+e7816df0494b MIPS: Workaround GCC __builtin_unreachable reordering bug
+0a112705926e drm/i915/dmc: protect against reading random memory
+d271f2252633 KVM: x86: degrade WARN to pr_warn_ratelimited
+05cd6937e886 clk: sunxi: fix uninitialized access
+bd67557464c2 ARC: handle gcc generated __builtin_trap for older compiler
+074d0aaec0c6 bug.h: work around GCC PR82365 in BUG()
+39862ccbc853 ARC: fix allnoconfig build warning
+f3002e55a4f8 mfd: omap-usb-tll: Fix register offsets
+f1a542a16152 MIPS: netlogic: xlr: Remove erroneous check in nlm_fmn_send()
+31cbea603449 MIPS: math-emu: do not use bools for arithmetic
+32b213483ec5 mm/mlock.c: change count_mm_mlocked_page_nr return type
+99b6668f2e3f scripts/decode_stacktrace.sh: prefix addr2line with $CROSS_COMPILE
+cb1901100a6d scsi: hpsa: correct ioaccel2 chaining
+71e54f579ec8 usb: gadget: udc: lpc32xx: allocate descriptor with GFP_ATOMIC
+aa5865dc25b2 usb: gadget: fusb300_udc: Fix memory leak of fusb300->ep[i]
+689aca72d29d ASoC: max98090: remove 24-bit format support if RJ is 0
+b9c6c4d8ff55 drm/mediatek: fix unbind functions
+3b3853bf81ce spi: bitbang: Fix NULL pointer dereference in spi_unregister_master
+1166becf84e8 ASoC: soc-pcm: BE dai needs prepare when pause release after resume
+cbb066f11d87 ASoC : cs4265 : readable register too low
+f470557724f2 Bluetooth: Fix faulty expression for minimum encryption key size check
+2f973fe470fb tipc: pass tunnel dev as NULL to udp_tunnel(6)_xmit_skb
+0f00d44f9884 bpf: udp: ipv6: Avoid running reuseport's bpf_prog from __udp6_lib_err
+3c77e8fe4ff6 bpf: udp: Avoid calling reuseport's bpf_prog from udp_gro
+d76e874053c3 net: check before dereferencing netdev_ops during busy poll
+4451dc92e5bb ipv4: Use return value of inet_iif() for __raw_v4_lookup in the while loop
+b93a8c23a330 bonding: Always enable vlan tx offload
+7abb0db17429 team: Always enable vlan tx offload
+167c810e9db3 tun: wake up waitqueues after IFF_UP is set
+c09cff897969 tipc: check msg->req data len in tipc_nl_compat_bearer_disable
+00bdf8d54941 tipc: change to use register_pernet_device
+17bcbe8589a7 sctp: change to hold sk after auth shkey is created successfully
+7ced5e8ddd77 net: stmmac: fixed new system time seconds value calculation
+0c76cea627b4 af_packet: Block execution of tasks waiting for transmit to complete in AF_PACKET
+0cbb0ae75a30 cpu/speculation: Warn on unsupported mitigations= parameter
+64d3f00a33ea NFS/flexfiles: Use the correct TCP timeout for flexfiles I/O
+bed86475416a x86/speculation: Allow guests to use SSBD even if host does not
+ff2870b00428 scsi: vmw_pscsi: Fix use-after-free in pvscsi_queue_lck()
+0c4a3f55a80f mm/page_idle.c: fix oops because end_pfn is larger than max_pfn
+42a7a2aa31dc fs/binfmt_flat.c: make load_flat_shared_library() work
+730855b0f488 fs/proc/array.c: allow reporting eip/esp for all coredumping threads
+e7d813033680 net/9p: include trans_common.h to fix missing prototype warning.
+99af179af9cf 9p: p9dirent_read: check network-provided name length
+c01ddaa54d74 9p/rdma: remove useless check in cm_event_handler
+f779172e3707 9p: acl: fix uninitialized iattr access
+ad93d62b1210 9p/rdma: do not disconnect on down_interruptible EAGAIN
+16977a9b7a29 perf header: Fix unchecked usage of strncpy()
+07d6f72eef68 perf help: Remove needless use of strncpy()
+948475f743ed perf ui helpline: Use strlcpy() as a shorter form of strncpy() + explicit set nul
+e20ec7865223 IB/hfi1: Avoid hardlockup with flushlist_lock
+c1707c59edc6 mac80211: Do not use stack memory with scatterlist for GMAC
+9f0f5ff93ed0 mac80211: drop robust management frames from unknown TA
+e4f18614c1a6 cfg80211: fix memory leak of wiphy device name
+68d1e285e934 Bluetooth: Fix regression with minimum encryption key size alignment
+6290d9d3192e Bluetooth: Align minimum encryption key size for LE and BR/EDR connections
+00d409d807df ARM: imx: cpuidle-imx6sx: Restrict the SW2ISO increase to i.MX6SX
+e90a7ecde5f3 powerpc/bpf: use unsigned division instruction for 64-bit operations
+a97e26569b45 can: purge socket error queue on sock destruct
+50b1c5b57e4b can: flexcan: fix timeout when set small bitrate
+ce8c4760635c btrfs: start readahead also in seed devices
+0e6a89a37a67 nvme: Fix u32 overflow in the number of namespace list calculation
+f1e5aff7f052 hwmon: (pmbus/core) Treat parameters as paged if on multiple pages
+b4b29e588b70 s390/qeth: fix VLAN attribute in bridge_hostnotify udev event
+48c44d371983 scsi: ufs: Check that space was properly alloced in copy_query_response
+c200537f81a0 scripts/checkstack.pl: Fix arm64 wrong or unknown architecture
+336ebd79e9a7 drm/arm/hdlcd: Allow a bit of clock tolerance
+631a183d5e72 net: ethernet: mediatek: Use NET_IP_ALIGN to judge if HW RX_2BYTE_OFFSET is enabled
+486e866e0acf net: ethernet: mediatek: Use hw_feature to judge if HWLRO is supported
+198cecace1b7 sparc: perf: fix updated event period in response to PERF_EVENT_IOC_PERIOD
+439ab882535b net: hns: Fix loopback test failed at copper ports
+751518859446 net: dsa: mv88e6xxx: avoid error message on remove from VLAN 0
+eac97a7562d7 MIPS: uprobes: remove set but not used variable 'epc'
+eb8d1928f53d IB/{qib, hfi1, rdmavt}: Correct ibv_devinfo max_mr value
+e741be94ebc8 IB/hfi1: Insure freeze_work work_struct is canceled on shutdown
+ca45c2cd6b4f IB/rdmavt: Fix alloc_qpn() WARN_ON()
+32ecc7378309 parisc: Fix compiler warnings in float emulation code
+c9b7621d7af4 parport: Fix mem leak in parport_register_dev_model
+046a3793f802 ARC: fix build warnings with !CONFIG_KPROBES
+4a60589dc0ce apparmor: enforce nullbyte at end of tag string
+8b034f18a4a3 Input: uinput - add compat ioctl number translation for UI_*_FF_UPLOAD
+88bc27bd7717 IB/hfi1: Silence txreq allocation warnings
+74d7687f851c usb: chipidea: udc: workaround for endpoint conflict issue
+e6c2b0a5bb7e scsi: ufs: Avoid runtime suspend possibly being blocked forever
+7601d81506ef gcc-9: silence 'address-of-packed-member' warning
+2e41539ee26f tracing: Silence GCC 9 array bounds warning
+
+   * packages/apps/Settings/
+0341e072a8 Change logo color
+8deae1787a DAFUQ
+
+   * vendor/themes/
+007a31e MAke for Gradient
+
+=======================
+     07-10-2019
+=======================
+
+
+   * development/
+ff5079718 Merge "Snap for 5622519 from 239859423412edda2096927910dd8164e6475865 to pi-platform-release am: 8ef31cb46b" into pie-gsi
+6207d9d0c Snap for 5622519 from 239859423412edda2096927910dd8164e6475865 to pi-platform-release am: 8ef31cb46b
+
+   * external/icu/
+bd4c5fe40 Snap for 5622519 from 81023f4194eeb6e8123445d2441869bf55bf2f87 to pi-platform-release am: 16b3c0277e
+b9cd61962 Snap for 5600800 from cf06cc7772c2bbad4d6ce91609dd17050a56cf59 to pi-platform-release am: a63df92ad9
+
+   * hardware/qcom/audio/default/
+ab7d2ba3b Merge "Snap for 5622519 from 14f1d88d0eeb04f65a54a0c835feb4d719892bb8 to pi-platform-release am: 0c26ce89e0" into pie-gsi
+84356ce53 Snap for 5622519 from 14f1d88d0eeb04f65a54a0c835feb4d719892bb8 to pi-platform-release am: 0c26ce89e0
+
+   * kernel/xiaomi/sdm845/
+944c7525b811 Merge remote-tracking branch 'linux-stable/kernel.lnx.4.9.r11-rel' into Pepper-pie
+
+   * packages/apps/PackageInstaller/
+a40b4de9 Merge tag 'android-9.0.0_r44' of https://android.googlesource.com/platform/packages/apps/PackageInstaller into HEAD
+
+   * packages/apps/Settings/
+d3991b4811 Settings: Update Rebelion Logo on abput Phone
+b5bc14c99a Gradient end strings
+86bb5995a2 Settings: Battery : Redesign BatteryMeterView
+011b7a19c1 ZSettings: Move the position and update strings
+
+   * system/security/
+2e0205b Merge "Snap for 5622519 from c77e4768f57b6b71017399d995dab821405c92c4 to pi-platform-release am: de927dd8d5" into pie-gsi
+9eae64f Snap for 5622519 from c77e4768f57b6b71017399d995dab821405c92c4 to pi-platform-release am: de927dd8d5
+8607f11 Merge "Snap for 5600800 from 3a827b0a882258d291b67edbc5480e0ba0aedb39 to pi-platform-release am: 4a5cb0be76" into pie-gsi
+a2fb4b1 Snap for 5600800 from 3a827b0a882258d291b67edbc5480e0ba0aedb39 to pi-platform-release am: 4a5cb0be76
+
+   * system/tools/hidl/
+25a76d8 Snap for 5622519 from 71f3191f2c88f9cb4ad9e232d2bdb7b8208c40bf to pi-platform-release am: a5f1137806
+607da63 Snap for 5600800 from 8b20a45f29ebb35324b0fba2fc5e0b856047aebb to pi-platform-release am: 1df6c91f83
+
+   * vendor/rebellion/
+be918a8 Rebellion: Neptune Release
+
+   * vendor/themes/
+9a50828 Themes: Rebuild for gradients
+75c9456 Themes: Initial Gradient end
+
+=======================
+     07-09-2019
+=======================
+
+
+   * development/
+8ef31cb46 Snap for 5622519 from 239859423412edda2096927910dd8164e6475865 to pi-platform-release
+
+   * external/icu/
+16b3c0277 Snap for 5622519 from 81023f4194eeb6e8123445d2441869bf55bf2f87 to pi-platform-release
+a63df92ad Snap for 5600800 from cf06cc7772c2bbad4d6ce91609dd17050a56cf59 to pi-platform-release
+
+   * frameworks/base/
+778a50056ec Change brightness slider corder radius Signed-off-by: Rajkale99 <kaleraj.rk@gmail.com>
+053c0653b7c Fix build
+1c2f22f511b Revamp Clear All button
+73020aa8014 Remove manage notifications, center clear all
+dddb504476c Set gradient_start and gradient_end Signed-off-by: Rajkale99 <kaleraj.rk@gmail.com>
+7ce25657902 QSPanel: Remove Gradient
+2de0b974524 QSPanel: Redesigned Brigthness slider
+4c2bf3ee204 base: SystemUI: Add Clear all notif like OOS Signed-off-by: Rajkale99 <kaleraj.rk@gmail.com>
+ae88434653c Revert QS Tile Gradient
+97c75891555 base: Apply new switch to material style
+853123636ca Tweak some UI values
+a7ff7fef2d8 base: Bring gradient effect to QS tiles
+13faf799e64 base: Make more rounded UI
+
+   * hardware/qcom/audio/default/
+0c26ce89e Snap for 5622519 from 14f1d88d0eeb04f65a54a0c835feb4d719892bb8 to pi-platform-release
+
+   * packages/apps/Rebellion/
+4c68be6 Fix Indonesian Translation typo
+904961c Merge pull request #1 from engrchachi/patch-1
+17a76b6 fix typo
+
+   * packages/providers/DownloadProvider/
+bb438d2 Automatic translation import
+
+   * system/security/
+de927dd Snap for 5622519 from c77e4768f57b6b71017399d995dab821405c92c4 to pi-platform-release
+4a5cb0b Snap for 5600800 from 3a827b0a882258d291b67edbc5480e0ba0aedb39 to pi-platform-release
+
+   * system/tools/hidl/
+a5f1137 Snap for 5622519 from 71f3191f2c88f9cb4ad9e232d2bdb7b8208c40bf to pi-platform-release
+1df6c91 Snap for 5600800 from 8b20a45f29ebb35324b0fba2fc5e0b856047aebb to pi-platform-release
+
+=======================
+     07-08-2019
+=======================
+
+
+   * frameworks/base/
+90689950a2f Apply gradient to some device default UI elements
+fa615bbd704 Update brightness slider UI
+
+   * manifest/
+c92a041 r40 -> r44
+
+   * packages/apps/Rebellion/
+def9ded fix typo
+
+   * vendor/rebellion/
+c82829c why we need this?
+b7969b5 Give README
+
+=======================
+     07-07-2019
+=======================
+
+
+   * manifest/
+72c5ca7 Fix formating
+
+=======================
+     07-06-2019
+=======================
+
+
+   * build/make/
+49272105b Merge tag 'android-9.0.0_r44' of https://android.googlesource.com/platform/build into pie
+
+   * hardware/qcom/fm/
+7080f76 Automatic translation import
+c11bcfb Partially revert "fm: Fix wrong BT SOC property name"
+
+   * packages/apps/Settings/
+1c105eb7f5 Revert "settings : Redesign BatteryMeter"
+18fb2bb8f7 Revert "Fix build"
+4a49f9b62b Fix build
+cf7188f70d Settings: Show RebellionOS Version on firmware version
+d5b375782b settings : Redesign BatteryMeter
+
+   * packages/services/Telephony/
+7018d4e54 Allow to disable the new scan API for manual network search.
+
+   * vendor/rebellion/
+7e0502a vendor: Update Version
+
+=======================
+     07-05-2019
+=======================
+
+
+   * hardware/qcom/audio-caf/sm8150/
+8d5c4cd85 audio: Add missing includes
+62041ae12 audio: Depend on libtinycompress
+
+   * hardware/qcom/media-caf/sm8150/
+799548b90 media: Depend on display_headers not display_intf_headers
+
+=======================
+     07-04-2019
+=======================
+
+
+   * frameworks/av/
+90fe46f7a Merge tag 'android-9.0.0_r44' of https://android.googlesource.com/platform/frameworks/av into HEAD
+
+   * frameworks/base/
+9d2f7f5cd72 CleanUp
+3c15996e2f2 base: Add optional OP cam support
+c5e17e4f344 base: Import Android Q activity animations
+2917a90cc2e Merge tag 'android-9.0.0_r44' of https://android.googlesource.com/platform/frameworks/base into HEAD
+2b5b28cb1f7 base: add support of Dialer and Contacts dark/black theme
+
+   * frameworks/native/
+d8b584b5d Merge tag 'android-9.0.0_r44' of https://android.googlesource.com/platform/frameworks/native into HEAD
+
+   * kernel/xiaomi/sdm845/
+3bc77a9b2492 Merge tag 'LA.UM.7.3.r1-07900-sdm845.0' into kernel.lnx.4.9.r11-rel
+
+   * packages/apps/Rebellion/
+4dc4f2c Button: Move button settings from system menu [2/2]
+
+   * packages/apps/Settings/
+c145a82d3d Button: Move button settings from system menu [1/2]
+
+   * system/core/
+edce5370d Merge tag 'android-9.0.0_r44' of https://android.googlesource.com/platform/system/core into HEAD
+
+=======================
+     07-03-2019
+=======================
+
+
+=======================
+     07-02-2019
+=======================
+
+
+   * external/icu/
+f8039486b Merge tag 'android-9.0.0_r44' into staging/lineage-16.0_merge-android-9.0.0_r44
+
+   * hardware/qcom/sdm710/display/
+5a2568b9 Merge tag 'android-9.0.0_r44' into staging/lineage-16.0_merge-android-9.0.0_r44
+
+   * hardware/qcom/sdm845/display/
+2b361a0c Merge tag 'android-9.0.0_r44' into staging/lineage-16.0_merge-android-9.0.0_r44
+
+   * manifest/
+29f5f15 Track our OTA app
+
+   * packages/apps/RebellionOTA/
+3ab5161 OTA: Refactor to RebellionOS
+
+   * system/security/
+82635e4 Merge tag 'android-9.0.0_r44' into staging/lineage-16.0_merge-android-9.0.0_r44
+
+   * system/tools/hidl/
+6ba0d22 Merge tag 'android-9.0.0_r44' into staging/lineage-16.0_merge-android-9.0.0_r44
+
+   * vendor/rebellion/
+0aef94b vendor: Update RebellionOTA Permissions
+f476081 OTA: Updated OTA Config
+
