@@ -42,6 +42,20 @@
 	"changelog": ""
 },
 
+"land": {
+	"fullname": "Redmi 3S",
+	"maintainer": "Karandon",
+	"xdathread": "https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-rebellion-os-t3948969",
+	"filename": "RebellionOS_P-v1.6-Neptune-land-20190715-OFFICIAL.zip",
+	"buildate": "20190715",
+	"buildsize": "620307132",
+	"id": "3",
+	"download": "https://downloads.sourceforge.net/project/rebellionos/land/RebellionOS_P-v1.6-Neptune-land-20190715-OFFICIAL.zip",
+	"downloadfolder": "https://sourceforge.net/projects/rebellion/files/land",
+	"mirrorlink": "",
+	"changelog": ""
+},	
+	
 "riva": {
 	"fullname": "Redmi 5A",
 	"maintainer": "Hooligan32",
