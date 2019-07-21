@@ -41,7 +41,21 @@
 	"mirrorlink": "",
 	"changelog": ""
 },
-
+	
+"Platina": {
+	"fullname": "Xiaomi Mi 8 Lite",
+	"maintainer": "RebellizedTeam",
+	"xdathread": "https://github.com/RebellionOS/RIDDIM/blob/master/noxda.md",
+	"filename": "RebellionOS_P-v1.6-Neptune-platina-20190721-OFFICIAL.zip",
+	"buildate": "20190721",
+	"buildsize": "773MB",
+	"id": "3",
+	"download": "https://downloads.sourceforge.net/project/rebellionos/platina/RebellionOS_P-v1.6-Neptune-platina-20190721-OFFICIAL.zip",
+	"downloadfolder": "https://sourceforge.net/projects/rebellion/files/platina",
+	"mirrorlink": "",
+	"changelog": ""
+},
+	
 "land": {
 	"fullname": "Redmi 3S",
 	"maintainer": "Karandon",
