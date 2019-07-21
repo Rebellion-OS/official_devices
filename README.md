@@ -2,11 +2,11 @@
 
 | Model  | Codename  | Maintainer  | SourceForge  | XDA  | Status  |
 |---|---|---|---|---|---|
-| Redmi Note 4X   | mido  | rev31one  | [Mido](sourceforge.net/projects/rebellionos/files/mido)  | [XDA-Thread Link](https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-rebellionos-1-5-redmi-note-4-4x-t3947949/page2#post79935407)  | OFFICIAL STABLE |
-| Redmi 5A  | riva  | Hooligans32  | [Riva](sourceforge.net/projects/rebellionos/files/riva)  |  N/A | OFFICIAL STABLE |
-| Redmi 4A  | rolex  | Hyakei  | [Rolex](sourceforge.net/projects/rebellionos/files/rolex)  | N/A  | OFFICIAL STABLE |
-| Redmi 3S  | land  | Karandon24  | [Land](sourceforge.net/projects/rebellionos/files/land)  | [XDA-Thread Link](https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-rebellion-os-t3948969)  | OFFICIAL STABLE |
-| Mi 8  | dipper  | engrchachi  | [Dipper](sourceforge.net/projects/rebellionos/files/dipper)  | [XDA-Thread Link](https://forum.xda-developers.com/mi-8/development/rom-rebellion-os-t3943421)  | OFFICIAL STABLE |
+| Redmi Note 4X   | mido  | rev31one  | [Mido](https://sourceforge.net/projects/rebellionos/files/mido)  | [XDA-Thread Link](https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-rebellionos-1-5-redmi-note-4-4x-t3947949/page2#post79935407)  | OFFICIAL STABLE |
+| Redmi 5A  | riva  | Hooligans32  | [Riva](https://sourceforge.net/projects/rebellionos/files/riva)  |  N/A | OFFICIAL STABLE |
+| Redmi 4A  | rolex  | Hyakei  | [Rolex](https://sourceforge.net/projects/rebellionos/files/rolex)  | N/A  | OFFICIAL STABLE |
+| Redmi 3S  | land  | Karandon24  | [Land](https://sourceforge.net/projects/rebellionos/files/land)  | [XDA-Thread Link](https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-rebellion-os-t3948969)  | OFFICIAL STABLE |
+| Mi 8  | dipper  | engrchachi  | [Dipper](https://sourceforge.net/projects/rebellionos/files/dipper)  | [XDA-Thread Link](https://forum.xda-developers.com/mi-8/development/rom-rebellion-os-t3943421)  | OFFICIAL STABLE |
 
 
 # RebellionOS Maintainer application.
