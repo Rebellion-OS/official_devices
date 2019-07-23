@@ -84,6 +84,20 @@
 	"changelog": ""
 },
 
+"lavender": {
+	"fullname": "Redmi Note 7",
+	"maintainer": "letsmakecakes",
+	"xdathread": "https://forum.xda-developers.com/redmi-note-7/development/rom-rebellion-os-t3950928",
+	"filename": "RebellionOS_P-v1.6-Neptune-lavender-20190723-OFFICAL.zip",
+	"buildate": "20190723",
+	"buildsize": "836558150",
+	"id": "5",
+	"download": "https://sourceforge.net/projects/rebellionos/files/lavender/RebellionOS_P-v1.6-Neptune-lavender-20190723-OFFICAL.zip",
+	"downloadfolder": "https://sourceforge.net/projects/rebellionos/files/lavender",
+	"mirrorlink": "",
+	"changelog": ""
+},
+
 "polaris": {
 	"fullname": "MI MIX2S",
 	"maintainer": "2han9wen71an",
