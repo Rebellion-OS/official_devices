@@ -30,11 +30,11 @@
 
 "rolex": {
 	"fullname": "Redmi 4A",
-	"maintainer": "Hyakei",
+	"maintainer": "ZugengOwen",
 	"xdathread": "https://github.com/RebellionOS/RIDDIM/blob/master/noxda.md",
-	"filename": "RebellionOS_P-v1.5-rolex-20190629-OFFICIAL.zip",
+	"filename": "RebellionOS_P-v1.6-Neptune-rolex-20190723-OFFICIAL.zip",
 	"buildate": "20190630",
-	"buildsize": "637MB",
+	"buildsize": "614301980",
 	"id": "3",
 	"download": "https://downloads.sourceforge.net/project/rebellionos/rolex/RebellionOS_P-v1.5-rolex-20190629-OFFICIAL.zip",
 	"downloadfolder": "https://sourceforge.net/projects/rebellion/files/rolex",
