@@ -4,11 +4,11 @@
 	"fullname": "Xiaomi Mi 8",
 	"maintainer": "engr.chachi",
 	"xdathread": "https://forum.xda-developers.com/mi-8/development/rom-rebellion-os-t3943421",
-	"filename": "RebellionOS_P-v1.6-Neptune-dipper-20190715-OFFICIAL.zip",
-	"buildate": "20190715",
-	"buildsize": "551,6MB",
+	"filename": "RebellionOS_P-v1.5-dipper-20190708-OFFICIAL.zip",
+	"buildate": "20190708",
+	"buildsize": "551,5MB",
 	"id": "1",
-	"download": "https://downloads.sourceforge.net/project/rebellionos/dipper/RebellionOS_P-v1.6-Neptune-dipper-20190715-OFFICIAL.zip",
+	"download": "https://downloads.sourceforge.net/project/rebellionos/dipper/RebellionOS_P-v1.5-dipper-20190708-OFFICIAL.zip",
 	"downloadfolder": "https://sourceforge.net/projects/rebellionos/files/dipper",
 	"mirrorlink": "",
 	"changelog": ""
@@ -17,7 +17,7 @@
 "mido": {
 	"fullname": "Redmi Note 4/4X",
 	"maintainer": "rev31one",
-	"xdathread": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-rebellionos-1-5-redmi-note-4-4x-t3947949",
+	"xdathread": "https://github.com/RebellionOS/RIDDIM/blob/master/noxda.md",
 	"filename": "RebellionOS_P-v1.6-Neptune-mido-20190711-OFFICIAL.zip",
 	"buildate": "20190711",
 	"buildsize": "619884849",
@@ -30,56 +30,42 @@
 
 "rolex": {
 	"fullname": "Redmi 4A",
-	"maintainer": "Hyakei",
+	"maintainer": "ZugengOwen",
 	"xdathread": "https://github.com/RebellionOS/RIDDIM/blob/master/noxda.md",
-	"filename": "RebellionOS_P-v1.5-rolex-20190629-OFFICIAL.zip",
+	"filename": "RebellionOS_P-v1.6-Neptune-rolex-20190723-OFFICIAL.zip",
 	"buildate": "20190630",
-	"buildsize": "637MB",
+	"buildsize": "614301980",
 	"id": "3",
 	"download": "https://downloads.sourceforge.net/project/rebellionos/rolex/RebellionOS_P-v1.5-rolex-20190629-OFFICIAL.zip",
 	"downloadfolder": "https://sourceforge.net/projects/rebellion/files/rolex",
 	"mirrorlink": "",
 	"changelog": ""
 },
-	
-"platina": {
-	"fullname": "Xiaomi Mi 8 Lite",
-	"maintainer": "RebellizedTeam",
-	"xdathread": "https://github.com/RebellionOS/RIDDIM/blob/master/noxda.md",
-	"filename": "RebellionOS_P-v1.6-Neptune-platina-20190721-OFFICIAL.zip",
-	"buildate": "20190721",
-	"buildsize": "773MB",
+
+"sagit": {
+	"fullname": "Xiaomi Mi 6",
+	"maintainer": "Boos4721",
+	"xdathread": "https://forum.xda-developers.com/mi-6/development/official-rebellionos-mi-6-t3950844",
+    "filename": "RebellionOS_P-v1.6-Neptune-sagit-20190723-OFFICIAL.zip",
+	"buildate": "20190723",
+	"buildsize": "900051726",
 	"id": "3",
-	"download": "https://downloads.sourceforge.net/project/rebellionos/platina/RebellionOS_P-v1.6-Neptune-platina-20190721-OFFICIAL.zip",
-	"downloadfolder": "https://sourceforge.net/projects/rebellion/files/platina",
+	"download": "https://downloads.sourceforge.net/project/rebellionos/sagit/RebellionOS_P-v1.6-Neptune-sagit-20190723-OFFICIAL.zip",
+	"downloadfolder": "https://sourceforge.net/projects/rebellion/files/sagit",
 	"mirrorlink": "",
 	"changelog": ""
 },
-	
-"land": {
-	"fullname": "Redmi 3S",
-	"maintainer": "Karandon",
-	"xdathread": "https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-rebellion-os-t3948969",
-	"filename": "RebellionOS_P-v1.6-Neptune-land-20190715-OFFICIAL.zip",
-	"buildate": "20190715",
-	"buildsize": "620307132",
-	"id": "3",
-	"download": "https://downloads.sourceforge.net/project/rebellionos/land/RebellionOS_P-v1.6-Neptune-land-20190715-OFFICIAL.zip",
-	"downloadfolder": "https://sourceforge.net/projects/rebellion/files/land",
-	"mirrorlink": "",
-	"changelog": ""
-},	
-	
-"riva": {
-	"fullname": "Redmi 5A",
-	"maintainer": "Hooligan32",
-	"xdathread": "https://github.com/RebellionOS/RIDDIM/blob/master/noxda.md",
-	"filename": "RebellionOS_P-v1.6-Neptune-riva-20190716-OFFICIAL.zip",
-	"buildate": "20190716",
-	"buildsize": "611,2MB",
-	"id": "4",
-	"download": "https://downloads.sourceforge.net/project/rebellionos/riva/RebellionOS_P-v1.6-Neptune-riva-20190716-OFFICIAL.zip",
-	"downloadfolder": "https://sourceforge.net/projects/rebellionos/files/riva",
+
+"lavender": {
+	"fullname": "Redmi Note 7",
+	"maintainer": "letsmakecakes",
+	"xdathread": "https://forum.xda-developers.com/redmi-note-7/development/rom-rebellion-os-t3950928",
+	"filename": "RebellionOS_P-v1.6-Neptune-lavender-20190723-OFFICAL.zip",
+	"buildate": "20190723",
+	"buildsize": "836558150",
+	"id": "5",
+	"download": "https://sourceforge.net/projects/rebellionos/files/lavender/RebellionOS_P-v1.6-Neptune-lavender-20190723-OFFICAL.zip",
+	"downloadfolder": "https://sourceforge.net/projects/rebellionos/files/lavender",
 	"mirrorlink": "",
 	"changelog": ""
 },
@@ -96,5 +82,20 @@
 	"downloadfolder": "https://sourceforge.net/projects/rebellionos/files/polaris",
 	"mirrorlink": "",
 	"changelog": ""
+},
+
+"riva": {
+	"fullname": "Redmi 5A",
+	"maintainer": "Hooligan32",
+	"xdathread": "https://github.com/RebellionOS/RIDDIM/blob/master/noxda.md",
+	"filename": "RebellionOS_P-v1.5-riva-20190627-OFFICIAL.zip",
+	"buildate": "20190627",
+	"buildsize": "6106MB",
+	"id": "4",
+	"download": "https://downloads.sourceforge.net/project/rebellionos/riva/RebellionOS_P-v1.5-riva-20190627-OFFICIAL.zip",
+	"downloadfolder": "https://sourceforge.net/projects/rebellionos/files/riva",
+	"mirrorlink": "",
+	"changelog": ""
 }
+
 }
