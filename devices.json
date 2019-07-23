@@ -98,4 +98,17 @@
 	"changelog": ""
 },
 
+"polaris": {
+	"fullname": "MI MIX2S",
+	"maintainer": "2han9wen71an",
+	"xdathread": "https://github.com/RebellionOS/RIDDIM/blob/master/noxda.md",
+	"filename": "RebellionOS_P-v1.6-Neptune-polaris-20190723-OFFICAL.zip",
+	"buildate": "20190723",
+	"buildsize": "525,4MB",
+	"id": "4",
+	"download": "https://sourceforge.net/projects/rebellionos/files/polaris/RebellionOS_P-v1.6-Neptune-polaris-20190723-OFFICAL.zip",
+	"downloadfolder": "https://sourceforge.net/projects/rebellionos/files/polaris",
+	"mirrorlink": "",
+	"changelog": ""
+}
 }
