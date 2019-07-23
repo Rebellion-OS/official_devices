@@ -82,6 +82,19 @@
 	"downloadfolder": "https://sourceforge.net/projects/rebellionos/files/riva",
 	"mirrorlink": "",
 	"changelog": ""
-}
+}.
 
+"sagit": {
+	"fullname": "Xiaomi 6",
+	"maintainer": "Boos4721",
+	"xdathread": "https://forum.xda-developers.com/mi-6/development/official-rebellionos-mi-6-t3950844",
+        "file_name": "RebellionOS_P-v1.6-Neptune-sagit-20190723-OFFICIAL.zip",
+        "file_size": 900051726,
+        "md5": "c0778f61140c89db43d2257effda45f2"
+	"id": "7",
+	"download": "https://downloads.sourceforge.net/project/rebellionos/riva/RebellionOS_P-v1.6-Neptune-sagit-20190723-OFFICIAL.zip",
+	"downloadfolder": "https://sourceforge.net/projects/rebellionos/files/sagit",
+	"mirrorlink": "",
+	"changelog": ""
+}
 }
