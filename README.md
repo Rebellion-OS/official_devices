@@ -7,7 +7,7 @@
 | Redmi 4A  | rolex  | Hyakei  | [Rolex](https://sourceforge.net/projects/rebellionos/files/rolex)  | N/A  | OFFICIAL STABLE |
 | Redmi 3S  | land  | Karandon24  | [Land](https://sourceforge.net/projects/rebellionos/files/land)  | [XDA-Thread Link](https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-rebellion-os-t3948969)  | OFFICIAL STABLE |
 | Mi 8  | dipper  | engrchachi  | [Dipper](https://sourceforge.net/projects/rebellionos/files/dipper)  | [XDA-Thread Link](https://forum.xda-developers.com/mi-8/development/rom-rebellion-os-t3943421)  | OFFICIAL STABLE |
-
+| MI MIX2S  | polaris  | 2han9wen71an  | [Polaris](https://sourceforge.net/projects/rebellionos/files/polaris)  |  N/A | OFFICIAL STABLE |
 
 # RebellionOS Maintainer application.
 Before become Official Maintainer you must complete some requirements!
