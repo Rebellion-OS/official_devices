@@ -7,7 +7,7 @@
 | Redmi 4A  | rolex  | Hyakei  | [Rolex](https://sourceforge.net/projects/rebellionos/files/rolex)  | N/A  | OFFICIAL STABLE |
 | Redmi 3S  | land  | Karandon24  | [Land](https://sourceforge.net/projects/rebellionos/files/land)  | [XDA-Thread Link](https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-rebellion-os-t3948969)  | OFFICIAL STABLE |
 | Mi 8  | dipper  | engrchachi  | [Dipper](https://sourceforge.net/projects/rebellionos/files/dipper)  | [XDA-Thread Link](https://forum.xda-developers.com/mi-8/development/rom-rebellion-os-t3943421)  | OFFICIAL STABLE |
-| Xiaomi Mi MIX2S  | polaris  | 2han9wen71an  | [Polaris](https://sourceforge.net/projects/rebellionos/files/polaris)  |  N/A | OFFICIAL STABLE |
+| Xiaomi Mi MIX2S  | polaris  | 2han9wen71an  | [Polaris](https://sourceforge.net/projects/rebellionos/files/polaris)  |  [XDA-Thread Link](https://forum.xda-developers.com/xiaomi-mi-mix-2s/development/official-rebellionos-t3950999) | OFFICIAL STABLE |
 | Xiaomi Mi 6  | sagit  | Boos4721  | [Sagit](https://sourceforge.net/projects/rebellionos/files/sagit)  |  [XDA-Thread Link](http://forum.xda-developers.com/mi-6/development/official-rebellionos-mi-6-t3950844) | OFFICIAL STABLE |
 | Redmi Note 7  | lavender  | letsmakecakes  | [Lavender](https://sourceforge.net/projects/rebellionos/files/lavender)  |  [XDA-Thread Link](http://forum.xda-developers.com/redmi-note-7/development/rom-rebellion-os-t3950928) | OFFICIAL STABLE |
 
