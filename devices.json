@@ -36,7 +36,7 @@
 	"buildate": "20190630",
 	"buildsize": "614301980",
 	"id": "3",
-	"download": "https://downloads.sourceforge.net/project/rebellionos/rolex/RebellionOS_P-v1.5-rolex-20190629-OFFICIAL.zip",
+	"download": "https://downloads.sourceforge.net/project/rebellionos/rolex/RebellionOS_P-v1.6-Neptune-rolex-20190723-OFFICIAL.zip",
 	"downloadfolder": "https://sourceforge.net/projects/rebellion/files/rolex",
 	"mirrorlink": "",
 	"changelog": ""
@@ -46,7 +46,7 @@
 	"fullname": "Xiaomi Mi 6",
 	"maintainer": "Boos4721",
 	"xdathread": "https://forum.xda-developers.com/mi-6/development/official-rebellionos-mi-6-t3950844",
-    "filename": "RebellionOS_P-v1.6-Neptune-sagit-20190723-OFFICIAL.zip",
+        "filename": "RebellionOS_P-v1.6-Neptune-sagit-20190723-OFFICIAL.zip",
 	"buildate": "20190723",
 	"buildsize": "900051726",
 	"id": "3",
